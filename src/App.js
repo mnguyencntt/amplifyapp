@@ -10,6 +10,9 @@ function App() {
         <p>
           AnZ-Platform say hello-world
         </p>
+        <a href="https://master.d19z9355is6mml.amplifyapp.com">
+          AnZ-Platform home page
+        </a>
         <img src="./AnzFarmer_logo_transparent.png" alt="logo" height="400" />
         {/* <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer" >Learn React</a> */}
       </header>
